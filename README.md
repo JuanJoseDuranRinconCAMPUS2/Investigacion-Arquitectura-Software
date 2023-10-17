@@ -1,47 +1,47 @@
-# **🛂📃Patrones de  la Arquitectura de Software📃🛂**
+# **🧮📃Patrón Descomposición Modular📃🧮**
 
-![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patrones-Arquitectura-Software/imgs/investigacionPatrones.png?raw=true)
+![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patron-Descomposicion-Modular/imgs/investigacionDM.png?raw=true)
 
-En esta rama, exploraremos los patrones mas importantes usados en la Arquitectura de Software.
+En esta rama, exploraremos de uno de los patrones de arquitectura de software, siendo especifico el patrón de descomposición modular.
 
-![](https://i.imgur.com/72GslRm.gif)
-
-------
-
-## 🈺⛩️Patrones de  la Arquitectura de Software⛩️🈺
-
-<img src="https://hotmart.s3.amazonaws.com/product_pictures/f9e5c66a-f565-4b38-9896-ed8f2f32cbd4/soloLogoCursoARS.png" alt="Indice" style="zoom:83%;" />
-
- Los patrones arquitectónicos son **soluciones generales a problemas de ingeniería de software que se repiten a menudo**. Se trata de un marco de referencia que utiliza un equipo de de desarrolladores para construir y diseñar un determinado sistema.
-
- Estos patrones proporcionan una guía sólida para estructurar y organizar el código y la lógica de una aplicación, mejorando la eficiencia, la escalabilidad y la calidad del software.
-
-Las arquitecturas mas utilizadas son las siguientes:
-
-- ## [Descomposición Modular](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Descomposicion-Modular).
-- ## [Cliente-Servidor](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Cliente-Servidor). 
-
-- ## [Arquitectura de tres niveles](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Arquitectura-Tres-Niveles). 
-
-Otras arquitecturas menos conocidas son:
-
-- ## [Modelo Vista Controlador](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Modelo-Vista-Controlador).
-
-- ## [En pipeline](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-En-Pipeline).
-
-- ## [Entre pares](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Entre-Pares).
-
-- ## [En pizarra](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-En-Pizarra).
-
-- ## [Orientada a servicios](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Orientada-A-Servicios)
-
-- ## [Arquitectura de microservicios](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Arquitectura-MicroServicios) 
-
-- ## [Dirigida por eventos](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Dirigida-Por-Eventos).
-
+![](https://i.imgur.com/HgCjMI5.gif)
 
 ------
 
+## 🈚**🔑**Patrón Descomposición Modular🔑🈚
+
+<img src="https://ittgweb.files.wordpress.com/2016/05/sg37_calidad_fig1.jpg?w=1200" alt="Indice" style="zoom:43%;" />
+
+Este es un patrón  que se utiliza para dividir un sistema en módulos o componentes más pequeños y manejables. Este enfoque es útil para simplificar el desarrollo y la gestión de sistemas de software complejos
+
+```
+Esta división modular facilita el desarrollo, la prueba, el mantenimiento y la escalabilidad del sistema.
+```
+
+------
+
+## 🈚**🔀**Caracteristicas de la Descomposición Modular🔀🈚
+
+![](https://i.imgur.com/EMHS3Qr.gif)
+
+- **División en Módulos**: El sistema se divide en unidades más pequeñas y autónomas, cada una de las cuales realiza una función específica.
+- **Acoplamiento Reducido**: Los módulos están diseñados para ser independientes y, en la medida de lo posible, tienen un acoplamiento bajo entre sí.
+- **Cohesión Alta**: Los elementos dentro de un módulo están relacionados de manera lógica y se centran en una tarea común.
+
+------
+## 🈚**💥**Beneficios de la Descomposición Modular💥🈚
+
+<img src="https://ingsoftwareisc.files.wordpress.com/2016/05/dm.jpg" style="zoom:67%;" />
+
+- **Mantenimiento más fácil**: Los módulos individuales pueden mantenerse y actualizarse sin afectar otros componentes del sistema.
+- **Reutilización**: Los módulos independientes pueden reutilizarse en diferentes partes del sistema o en otros proyectos.
+- **Escalabilidad**: La descomposición modular facilita la escalabilidad, ya que nuevos módulos pueden agregarse o modificarse de manera independiente.
+- **Mejora de la legibilidad**: La arquitectura modular suele conducir a un código más legible y limpio.
+
+------
+
+> ## [Volver a la lista de patrones](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Arquitectura-Software)
+>
 > ## [Volver al índice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/main)
 
 ------
