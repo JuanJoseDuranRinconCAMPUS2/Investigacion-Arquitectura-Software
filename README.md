@@ -1,47 +1,29 @@
-# **🛂📃Patrones de  la Arquitectura de Software📃🛂**
+# **⚓📃Patrón En Pipeline📃⚓**
 
-![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patrones-Arquitectura-Software/imgs/investigacionPatrones.png?raw=true)
+![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patron-En-Pipeline/imgs/investigacionEnPipeline.png?raw=true)
 
-En esta rama, exploraremos los patrones mas importantes usados en la Arquitectura de Software.
+En esta rama, exploraremos de uno de los patrones de arquitectura de software, siendo especifico el patrón de En Pipeline.
 
-![](https://i.imgur.com/72GslRm.gif)
-
-------
-
-## 🈺⛩️Patrones de  la Arquitectura de Software⛩️🈺
-
-<img src="https://hotmart.s3.amazonaws.com/product_pictures/f9e5c66a-f565-4b38-9896-ed8f2f32cbd4/soloLogoCursoARS.png" alt="Indice" style="zoom:83%;" />
-
- Los patrones arquitectónicos son **soluciones generales a problemas de ingeniería de software que se repiten a menudo**. Se trata de un marco de referencia que utiliza un equipo de de desarrolladores para construir y diseñar un determinado sistema.
-
- Estos patrones proporcionan una guía sólida para estructurar y organizar el código y la lógica de una aplicación, mejorando la eficiencia, la escalabilidad y la calidad del software.
-
-Las arquitecturas mas utilizadas son las siguientes:
-
-- ## [Descomposición Modular](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Descomposicion-Modular).
-- ## [Cliente-Servidor](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Cliente-Servidor). 
-
-- ## [Arquitectura de tres niveles](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Arquitectura-Tres-Niveles). 
-
-Otras arquitecturas menos conocidas son:
-
-- ## [Modelo Vista Controlador](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Modelo-Vista-Controlador).
-
-- ## [En pipeline](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-En-Pipeline).
-
-- ## [Entre pares](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Entre-Pares).
-
-- ## [En pizarra](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-En-Pizarra).
-
-- ## [Orientada a servicios](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Orientada-A-Servicios)
-
-- ## [Arquitectura de microservicios](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Arquitectura-MicroServicios) 
-
-- ## [Dirigida por eventos](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Dirigida-Por-Eventos).
-
+![](https://i.imgur.com/bV7Z20x.gif)
 
 ------
 
+## 🈂️**🔑**Patrón En Pipeline🔑🈂️
+
+<img src="https://d3i71xaburhd42.cloudfront.net/d26ae65c58ee0829fc080ef35b54c87730ed15eb/1-Figure1-1.png" alt="Indice" style="zoom:93%;" />
+
+La arquitectura en pipeline (basada en filtros) consiste en ir transformando un flujo de datos en un proceso comprendido por varias fases secuenciales, siendo la entrada de cada una la salida de la anterior.
+
+Esta arquitectura es muy común en el desarrollo de programas para el intérprete de comandos, ya que se pueden conectar comandos fácilmente con tuberías (pipe).
+
+```
+También es una arquitectura muy natural en el paradigma de programación funcional, ya que equivale a la composición de funciones matemáticas.
+```
+
+------
+
+> ## [Volver a la lista de patrones](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Arquitectura-Software)
+>
 > ## [Volver al índice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/main)
 
 ------
