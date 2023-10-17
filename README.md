@@ -2,7 +2,7 @@
 
 ![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patron-Modelo-Vista-Controlador/imgs/investigacionModeloVistaC.png?raw=true)
 
-En esta rama, exploraremos de uno de los patrones de arquitectura de software, siendo especifico el patrón de Arquitectura de tres niveles.
+En esta rama, exploraremos de uno de los patrones de arquitectura de software, siendo especifico el patrón de Modelo Vista Controlador.
 
 ![](https://i.imgur.com/bV7Z20x.gif)
 
