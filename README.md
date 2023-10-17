@@ -16,7 +16,7 @@ Para acceder a cada uno de los temas de esta investigación utiliza esta rama ma
 
 1. ## [Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Arquitectura-Software)
 
-1. ## [Vistas de  la Arquitectura de Software]()
+1. ## [Vistas de  la Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Vistas-Arquitectura-Software)
 
 3. ## [Patrones de arquitectura de software]()
 
