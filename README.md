@@ -1,26 +1,47 @@
-# **📟📃Investigación Arquitectura de Software📃📟**
+# **🛂📃Patrones de  la Arquitectura de Software📃🛂**
 
-![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/main/imgs/investigacion.png?raw=true)
+![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patrones-Arquitectura-Software/imgs/investigacionPatrones.png?raw=true)
 
-En este repositorio encontraras una investigación realizada acerca de la arquitectura de software en la cual se encontrara información respectiva a dicha arquitectura, sus diferentes apartados y los ejemplos de cada una.
+En esta rama, exploraremos los patrones mas importantes usados en la Arquitectura de Software.
+
+![](https://i.imgur.com/72GslRm.gif)
 
 ------
 
-## 🈂️📃Índice📃🈂️
+## 🈺⛩️Patrones de  la Arquitectura de Software⛩️🈺
 
-![Indice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/main/imgs/investigacionIndice.png?raw=true)
+<img src="https://hotmart.s3.amazonaws.com/product_pictures/f9e5c66a-f565-4b38-9896-ed8f2f32cbd4/soloLogoCursoARS.png" alt="Indice" style="zoom:83%;" />
 
-Para acceder a cada uno de los temas de esta investigación utiliza esta rama main como índice para navegar entre cada uno de los temas, cada rama de este proyecto representa un tema central de la investigación, a continuación tendrás la tabla de contenidos con link de redireccionamiento a cada una de las ramas con sus temas respectivos.
+ Los patrones arquitectónicos son **soluciones generales a problemas de ingeniería de software que se repiten a menudo**. Se trata de un marco de referencia que utiliza un equipo de de desarrolladores para construir y diseñar un determinado sistema.
 
-## **🎫Temas🎫**
+ Estos patrones proporcionan una guía sólida para estructurar y organizar el código y la lógica de una aplicación, mejorando la eficiencia, la escalabilidad y la calidad del software.
 
-1. ## [Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Arquitectura-Software)
+Las arquitecturas mas utilizadas son las siguientes:
 
-1. ## [Vistas de  la Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Vistas-Arquitectura-Software)
+- ## [Descomposición Modular](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Descomposicion-Modular).
+- ## [Cliente-Servidor](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Cliente-Servidor). 
 
-3. ## [Patrones de arquitectura de software]()
+- ## [Arquitectura de tres niveles](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Arquitectura-Tres-Niveles). 
 
-4. ## [Patrones de Diseño]()
+Otras arquitecturas menos conocidas son:
 
-[^Importante]: Con el avance de la  investigación se agregaran mas elementos al índice.
+- ## [Modelo Vista Controlador](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Modelo-Vista-Controlador).
 
+- ## [En pipeline](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-En-Pipeline).
+
+- ## [Entre pares](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Entre-Pares).
+
+- ## [En pizarra](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-En-Pizarra).
+
+- ## [Orientada a servicios](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Orientada-A-Servicios)
+
+- ## [Arquitectura de microservicios](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Arquitectura-MicroServicios) 
+
+- ## [Dirigida por eventos](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Dirigida-Por-Eventos).
+
+
+------
+
+> ## [Volver al índice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/main)
+
+------
