@@ -1,26 +1,61 @@
-# **📟📃Investigación Arquitectura de Software📃📟**
+# **♾️📃Vistas de  la Arquitectura de Software📃♾️**
 
-![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/main/imgs/investigacion.png?raw=true)
+![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Vistas-Arquitectura-Software/imgs/investigacionVistas.png?raw=true)
 
-En este repositorio encontraras una investigación realizada acerca de la arquitectura de software en la cual se encontrara información respectiva a dicha arquitectura, sus diferentes apartados y los ejemplos de cada una.
+En esta rama, exploraremos los modelos o vistas fundamentales en cualquier plano usado en la Arquitectura de Software.
+
+![](https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif)
 
 ------
 
-## 🈂️📃Índice📃🈂️
+## 🈸📟Vistas o Modelos de una Arquitectura de Software📟🈸
 
-![Indice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/main/imgs/investigacionIndice.png?raw=true)
+<img src="https://cdn-icons-png.flaticon.com/512/5270/5270894.png" alt="Indice" style="zoom:33%;" />
 
-Para acceder a cada uno de los temas de esta investigación utiliza esta rama main como índice para navegar entre cada uno de los temas, cada rama de este proyecto representa un tema central de la investigación, a continuación tendrás la tabla de contenidos con link de redireccionamiento a cada una de las ramas con sus temas respectivos.
+Cada diferente plano de Arquitectura tienen su diferente numero y tipos de vistas o modelas para describir dicha arquitectura, Sin embargo existen al menos 3 vistas que se mantienen en cualquier plano:
 
-## **🎫Temas🎫**
+- Visión Estática.
+- Visión Funcional.
+- Visión Dinámica.
 
-1. ## [Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Arquitectura-Software)
+------
 
-1. ## [Vistas de  la Arquitectura de Software]()
+## 🈸⚜️Visión Estática⚜️🈸
 
-3. ## [Patrones de arquitectura de software]()
+<img src="https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif" style="zoom:80%;" />
 
-4. ## [Patrones de Diseño]()
+- Esta vista se centra en la estructura estática de la arquitectura de software, describe los componentes del sistema, sus relaciones y como están organizados. Esto incluyendo módulos, clases, componentes físicos o lógicos y las dependencias entre ellos.
 
-[^Importante]: Con el avance de la  investigación se agregaran mas elementos al índice.
 
+```
+La vista estática proporciona una imagen estática de cómo se ve el sistema, pero no entra en detalles de su funcionamiento en tiempo real.
+```
+
+------
+
+## 🈸💮Visión Funcional💮🈸
+
+<img src="https://i.pinimg.com/originals/79/c7/2b/79c72bf963023f2e63170c878516d86d.gif" style="zoom:80%;" />
+
+- Esta vista se concentra en lo que hace cada componente de la arquitectura. Describe las funciones, responsabilidades y tareas que realiza cada componente individual. Busca entender las capacidades y el propósito de cada parte del sistema.
+
+```
+Esta vista ayuda a comprender la lógica y la funcionalidad subyacente de la arquitectura.
+```
+
+------
+## 🈸🧧Visión Dinámica🧧🈸
+
+<img src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif" style="zoom:50%;" />
+
+- Esta vista se enfoca en la forma como los componentes interactúan y se comportan a lo largo del tiempo. Describe los flujos de datos, las transiciones de estado y los eventos que ocurren en el sistema en respuesta a solicitudes.
+
+```
+La vista dinámica es crucial para comprender la ejecución en tiempo real del sistema y cómo responde a las interacciones del usuario o eventos externos.
+```
+
+------
+
+> ## [Volver al índice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/main)
+
+------
