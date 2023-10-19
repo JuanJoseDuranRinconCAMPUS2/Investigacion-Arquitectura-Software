@@ -10,7 +10,7 @@ En esta rama, exploraremos de uno de los patrones de arquitectura de software, s
 
 ## 🈂️**🔑**Patrón En Pipeline🔑🈂️
 
-<img src="https://d3i71xaburhd42.cloudfront.net/d26ae65c58ee0829fc080ef35b54c87730ed15eb/1-Figure1-1.png" alt="Indice" style="zoom:93%;" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*WBrl1ZhUC1fd_UDGpPbJ2g.jpeg" alt="Indice" style="zoom:93%;" />
 
 La arquitectura en pipeline (basada en filtros) consiste en ir transformando un flujo de datos en un proceso comprendido por varias fases secuenciales, siendo la entrada de cada una la salida de la anterior.
 
