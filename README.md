@@ -10,7 +10,7 @@ En esta rama, exploraremos los conceptos esenciales de la arquitectura de softwa
 
 ## 🈂️🧨¿Que es la arquitectura de software?🧨🈂️
 
-![Indice](https://media.licdn.com/dms/image/C4E12AQHMIjOtY2ogyA/article-cover_image-shrink_720_1280/0/1612213925105?e=2147483647&v=beta&t=WOTPq1-EffMgVD3lhExgUXpZ7UhuIQ65S35YyfoBRDE)
+<img src="https://media.licdn.com/dms/image/C4E12AQHMIjOtY2ogyA/article-cover_image-shrink_720_1280/0/1612213925105?e=2147483647&v=beta&t=WOTPq1-EffMgVD3lhExgUXpZ7UhuIQ65S35YyfoBRDE" alt="Indice" style="zoom:50%;" />
 
 Como introducción a este tema podemos tomar el siguiente concepto dado por la universidad Icesi.
 
