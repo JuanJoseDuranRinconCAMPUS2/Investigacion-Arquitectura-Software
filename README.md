@@ -18,9 +18,9 @@ Para acceder a cada uno de los temas de esta investigación utiliza esta rama ma
 
 1. ## [Vistas de  la Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Vistas-Arquitectura-Software)
 
-3. ## [Patrones de arquitectura de software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Arquitectura-Software)
+3. ## [Patrones de arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Arquitectura-Software)
 
-4. ## [Patrones de Diseño](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Diseño-Software)
+4. ## [Patrones de Diseño de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Diseño-Software)
 
 [^Importante]: Con el avance de la  investigación se agregaran mas elementos al índice.
 
