@@ -1,26 +1,33 @@
-# **📟📃Investigación Arquitectura de Software📃📟**
+# **✳️📃Patrones del Diseño de Software📃✳️**
 
-![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/main/imgs/investigacion.png?raw=true)
+![Portada](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/Patrones-Dise%C3%B1o-Software/imgs/investigacionPatronesD.png?raw=true)
 
-En este repositorio encontraras una investigación realizada acerca de la arquitectura de software en la cual se encontrara información respectiva a dicha arquitectura, sus diferentes apartados y los ejemplos de cada una.
+En esta rama, exploraremos los patrones mas importantes usados en el diseño de Software.
+
+![](https://i.imgur.com/EMHS3Qr.gif)
 
 ------
 
-## 🈂️📃Índice📃🈂️
+## 🈴⛩️Patrones del Diseño de Software⛩️🈴
 
-![Indice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/blob/main/imgs/investigacionIndice.png?raw=true)
+<img src="https://profile.es/wp-content/media/Patrones-de-diseno-de-software.png" alt="Indice" style="zoom:43%;" />
 
-Para acceder a cada uno de los temas de esta investigación utiliza esta rama main como índice para navegar entre cada uno de los temas, cada rama de este proyecto representa un tema central de la investigación, a continuación tendrás la tabla de contenidos con link de redireccionamiento a cada una de las ramas con sus temas respectivos.
+Los **patrones de diseño** son soluciones habituales a problemas que ocurren con frecuencia en el diseño de software. Son como planos prefabricados que se pueden personalizar para resolver un problema de diseño recurrente en tu código.
 
-## **🎫Temas🎫**
+Estos patrones proporcionan un enfoque estructurado y reutilizable para resolver situaciones recurrentes en el desarrollo de software. Los patrones de diseño ayudan a los desarrolladores a comunicarse y compartir soluciones eficientes y efectivas que han demostrado ser exitosas en el pasado.
 
-1. ## [Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Arquitectura-Software)
+Los Patrones de diseño mas utilizadas se clasifican en los siguientes:
 
-1. ## [Vistas de  la Arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Vistas-Arquitectura-Software)
+- ## [Patrones creacionales](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Diseño-Creacionales)
+- ## [Patrones estructurales](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Diseño-Estructurales)
 
-3. ## [Patrones de arquitectura de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Arquitectura-Software)
+- ## [Patrones de comportamiento](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patron-Diseño-Comportamiento)
 
-4. ## [Patrones de Diseño de Software](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/Patrones-Diseño-Software)
+[^Información]: https://profile.es/blog/patrones-de-diseno-de-software/#¿Que_son_los_patrones_de_diseno_design_patterns
 
-[^Importante]: Con el avance de la  investigación se agregaran mas elementos al índice.
 
+------
+
+> ## [Volver al índice](https://github.com/JuanJoseDuranRinconCAMPUS2/Investigacion-Arquitectura-Software/tree/main)
+
+------
